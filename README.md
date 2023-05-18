@@ -14,20 +14,21 @@ With Eon, you can track your cycle with precision and accuracy, receive personal
 
 
 
-**Authentication
+**Authentication**
 
 The authentication process is simple - just use your metamask wallet   to access the app and start tracking your menstrual cycle with confidence.
 
 
 
-**Technologies Used 
+**Technologies Used**
 
 Hardhat 
 Alchemy 
 Polygon 
+<img width="764" alt="image" src="https://github.com/sutanmuleta/eon/assets/93734061/2e61d961-1590-47fe-b2be-27343e8dc60c">
 
 
-**Usage 
+**Usage** 
 
 Onces you connect your MetaMask 
 Enter the start date you got your period last 
@@ -38,7 +39,7 @@ Only Input needed from end user is a Date
 
 
 
-**Roadmap 
+**Roadmap**
 
 Better UI improvements 
 More logic and recommendations based on your cycle 
