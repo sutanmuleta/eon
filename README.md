@@ -43,8 +43,13 @@ The authentication process is simple - just use your metamask wallet   to access
 
 # **Roadmap**
 
-Better UI improvements 
-More logic and recommendations based on your cycle 
+1. Better UI improvements 
+2. More logic and recommendations based on your cycle 
+3. Make the platform both decentralized and customized 
+4. Setting up a DAO
+
+
+
 
 
 
