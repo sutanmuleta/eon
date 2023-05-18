@@ -1,6 +1,6 @@
 # eon
 
-**Eon is a cycle tracking Dapp that is built on Ethereum’s Layer 2 Polygon's Test net. With Eon, you can easily and securely track your menstrual cycle using the power of blockchain technology.
+Eon is a cycle tracking Dapp that is built on Ethereum’s Layer 2 Polygon's Test net. With Eon, you can easily and securely track your menstrual cycle using the power of blockchain technology.
 
 
 
