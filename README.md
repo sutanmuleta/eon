@@ -4,7 +4,7 @@
 
 
 
-**Description 
+**Description **
 
 
 Our app is accessible through the MetaMask wallet and utilizes the Matic token for seamless and secure transactions.
