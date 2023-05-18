@@ -23,8 +23,8 @@ The authentication process is simple - just use your metamask wallet   to access
 # **Technologies Used**
 
 1. Hardhat 
-Alchemy 
-Polygon 
+2. Alchemy 
+3. Polygon 
 
 
 <img width="764" alt="image" src="https://github.com/sutanmuleta/eon/assets/93734061/2e61d961-1590-47fe-b2be-27343e8dc60c">
@@ -32,10 +32,10 @@ Polygon
 
 # **Usage** 
 
-Onces you connect your MetaMask 
-Enter the start date you got your period last 
-Track each phases of your cycle 
-Only Input needed from end user is a Date 
+1. Connect your MetaMask 
+2. Enter the start date you got your period last 
+3. Track each phases of your cycle 
+ **Only Input needed from end user is a Date** 
 
 
 
