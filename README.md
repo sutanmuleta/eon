@@ -1,10 +1,12 @@
 # eon
 
-Eon is a cycle tracking Dapp that is built on Ethereum’s Layer 2 Polygon's Test net. With Eon, you can easily and securely track your menstrual cycle using the power of blockchain technology.
+**Eon is a cycle tracking Dapp that is built on Ethereum’s Layer 2 Polygon's Test net. With Eon, you can easily and securely track your menstrual cycle using the power of blockchain technology.
 
 
 
-Description 
+**Description 
+
+
 Our app is accessible through the MetaMask wallet and utilizes the Matic token for seamless and secure transactions.
 All of your data is stored on Ethereum's blockchain, ensuring that your information is secure and private. And because Eon is built on a Layer 2, it delivers lightning-fast transaction speeds and lower gas fees. 
 With Eon, you can track your cycle with precision and accuracy, receive personalized recommendations based on your unique patterns and needs, and take control of your menstrual health like never before. And with the added security and speed of blockchain technology, you can trust that your data is safe and your transactions are seamless.
@@ -12,19 +14,20 @@ With Eon, you can track your cycle with precision and accuracy, receive personal
 
 
 
-Authentication 
- The authentication process is simple - just use your metamask wallet   to access the app and start tracking your menstrual cycle with confidence.
+**Authentication
+
+The authentication process is simple - just use your metamask wallet   to access the app and start tracking your menstrual cycle with confidence.
 
 
 
-Technologies Used 
+**Technologies Used 
 
 Hardhat 
 Alchemy 
 Polygon 
 
 
-Usage 
+**Usage 
 
 Onces you connect your MetaMask 
 Enter the start date you got your period last 
@@ -35,7 +38,7 @@ Only Input needed from end user is a Date
 
 
 
-Roadmap 
+**Roadmap 
 
 Better UI improvements 
 More logic and recommendations based on your cycle 
