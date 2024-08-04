@@ -1,7 +1,7 @@
 # phases
 
 
-Eon is a cycle tracking Dapp that is built on Ethereum’s Layer 2 Polygon. With Eon, you can easily and securely track your menstrual cycle.
+phases is a cycle tracking Dapp that is built on Ethereum’s Layer 2 Polygon. With Eon, you can easily and securely track your menstrual cycle.
 
 
 
